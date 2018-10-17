@@ -1,0 +1,23 @@
+{
+  "name": "react-model",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-sass": "^0.2.0",
+    "foundation-sites": "^6.5.0-rc.3",
+    "next": "^6.1.2",
+    "next-images": "^1.0.0",
+    "node-sass": "^4.9.3",
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1"
+  }
+}
